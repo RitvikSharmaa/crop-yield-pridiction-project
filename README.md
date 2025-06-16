@@ -3,6 +3,9 @@
 This project aims to predict crop yield using machine learning models trained on agricultural data. It includes a web application built with Flask to allow users to input parameters and receive crop yield predictions.
 
 ---
+## 🚀 Live Demo
+
+👉 https://crop-yield-prediction-project.onrender.com
 
 ## 📁 Project Structure
 
